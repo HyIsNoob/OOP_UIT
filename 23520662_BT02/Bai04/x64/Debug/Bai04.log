@@ -1,0 +1,3 @@
+﻿D:\ProGram\Microsoft\Visual Studio\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Bai04.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bai5.cpp
+  Bai04.vcxproj -> D:\UIT\HK2\OOP\Bai_Tap\23520662_BT02\x64\Debug\Bai05.exe

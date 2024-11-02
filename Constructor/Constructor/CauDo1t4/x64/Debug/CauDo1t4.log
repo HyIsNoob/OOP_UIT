@@ -1,0 +1,20 @@
+﻿  cAUdO.cpp
+D:\UIT\HK2\OOP\Bai_Tap\Constructor\Constructor\CauDo1t4\cAUdO.cpp(12,8): error C2143: syntax error: missing ';' before '&'
+D:\UIT\HK2\OOP\Bai_Tap\Constructor\Constructor\CauDo1t4\cAUdO.cpp(12,21): error C2872: 'istream': ambiguous symbol
+  D:\UIT\HK2\OOP\Bai_Tap\Constructor\Constructor\CauDo1t4\cAUdO.cpp(12,1):
+  could be 'String istream'
+  D:\ProGram\Microsoft\Visual Studio\Professional\VC\Tools\MSVC\14.39.33519\include\iosfwd(236,19):
+  or       'std::istream'
+  
+D:\UIT\HK2\OOP\Bai_Tap\Constructor\Constructor\CauDo1t4\cAUdO.cpp(12,10): error C2473: 'operator >>': looks like a function definition, but there is no parameter list.
+D:\UIT\HK2\OOP\Bai_Tap\Constructor\Constructor\CauDo1t4\cAUdO.cpp(12,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\UIT\HK2\OOP\Bai_Tap\Constructor\Constructor\CauDo1t4\cAUdO.cpp(12,10): error C2365: 'operator >>': redefinition; previous definition was 'function'
+  D:\UIT\HK2\OOP\Bai_Tap\Constructor\Constructor\CauDo1t4\cAUdO.cpp(9,18):
+  see declaration of 'operator >>'
+  
+D:\UIT\HK2\OOP\Bai_Tap\Constructor\Constructor\CauDo1t4\cAUdO.cpp(12,30): error C2065: 'm': undeclared identifier
+D:\UIT\HK2\OOP\Bai_Tap\Constructor\Constructor\CauDo1t4\cAUdO.cpp(12,41): error C2065: 'a': undeclared identifier
+D:\UIT\HK2\OOP\Bai_Tap\Constructor\Constructor\CauDo1t4\cAUdO.cpp(12,33): error C2275: 'String': expected an expression instead of a type
+D:\UIT\HK2\OOP\Bai_Tap\Constructor\Constructor\CauDo1t4\cAUdO.cpp(12,44): error C2059: syntax error: '{'
+D:\UIT\HK2\OOP\Bai_Tap\Constructor\Constructor\CauDo1t4\cAUdO.cpp(12,44): error C2143: syntax error: missing ';' before '{'
+D:\UIT\HK2\OOP\Bai_Tap\Constructor\Constructor\CauDo1t4\cAUdO.cpp(12,44): error C2447: '{': missing function header (old-style formal list?)

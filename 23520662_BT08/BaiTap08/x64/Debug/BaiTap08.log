@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BaiTap08.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CChiTiet.cpp
+  CChiTietDon.cpp
+  CChiTietPhuc.cpp
+  CMay.cpp
+  Source.cpp
+  Generating Code...
+  BaiTap08.vcxproj -> D:\UIT\HK2\OOP\Bai_Tap\23520662_BT08\x64\Debug\ChiTietMay.exe

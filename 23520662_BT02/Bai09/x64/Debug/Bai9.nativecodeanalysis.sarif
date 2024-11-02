@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33520.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/uit/hk2/oop/bai_tap/23520662_bt02/bai09/bai9.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "5cee1ddec163e767afcbe04bc558c1566c5ac15c460e02fed951905f5ecfd294"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/uit/hk2/oop/bai_tap/23520662_bt02/bai09/cduongtron.h"
+          },
+          "hashes": {
+            "sha-256": "f57deb580503b0c2c76ae89d893aeb4e97f60911e7014afe5e1bd75078984a48"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/uit/hk2/oop/bai_tap/23520662_bt02/bai09/cdiem.h"
+          },
+          "hashes": {
+            "sha-256": "94032f002281a8f51fe7e2512eb7ae060fb289193e738dc5aed24127d224b136"
+          }
+        }
+      ]
+    }
+  ]
+}

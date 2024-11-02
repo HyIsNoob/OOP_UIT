@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UIT\\HK2\\OOP\\Bai_Tap\\Constructor\\Constructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29070D80-5A31-4786-814F-1A94320EF937}|Timee\\Timee.vcxproj|D:\\UIT\\HK2\\OOP\\Bai_Tap\\Constructor\\Constructor\\Timee\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29070D80-5A31-4786-814F-1A94320EF937}|Timee\\Timee.vcxproj|solutionrelative:Timee\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4186752D-6490-42EC-A552-CAD6E7BA62AD}|1thang4\\1thang4.vcxproj|D:\\UIT\\HK2\\OOP\\Bai_Tap\\Constructor\\Constructor\\1thang4\\1Thang4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4186752D-6490-42EC-A552-CAD6E7BA62AD}|1thang4\\1thang4.vcxproj|solutionrelative:1thang4\\1Thang4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0489FB7-784E-4B92-9D10-A941D9D8D987}|Constructor1\\Constructor1.vcxproj|D:\\UIT\\HK2\\OOP\\Bai_Tap\\Constructor\\Constructor\\Constructor1\\Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0489FB7-784E-4B92-9D10-A941D9D8D987}|Constructor1\\Constructor1.vcxproj|solutionrelative:Constructor1\\Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350ABC2-D5FE-4998-A2F3-D65AFCDE46C9}|CauDo1t4\\CauDo1t4.vcxproj|D:\\UIT\\HK2\\OOP\\Bai_Tap\\Constructor\\Constructor\\CauDo1t4\\cAUdO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2350ABC2-D5FE-4998-A2F3-D65AFCDE46C9}|CauDo1t4\\CauDo1t4.vcxproj|solutionrelative:CauDo1t4\\cAUdO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 155,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a5174402-226b-48da-aa5c-91376ed45871}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Time.cpp",
+              "DocumentMoniker": "D:\\UIT\\HK2\\OOP\\Bai_Tap\\Constructor\\Constructor\\Timee\\Time.cpp",
+              "RelativeDocumentMoniker": "Timee\\Time.cpp",
+              "ToolTip": "D:\\UIT\\HK2\\OOP\\Bai_Tap\\Constructor\\Constructor\\Timee\\Time.cpp",
+              "RelativeToolTip": "Timee\\Time.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAJsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T06:12:46.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cAUdO.cpp",
+              "DocumentMoniker": "D:\\UIT\\HK2\\OOP\\Bai_Tap\\Constructor\\Constructor\\CauDo1t4\\cAUdO.cpp",
+              "RelativeDocumentMoniker": "CauDo1t4\\cAUdO.cpp",
+              "ToolTip": "D:\\UIT\\HK2\\OOP\\Bai_Tap\\Constructor\\Constructor\\CauDo1t4\\cAUdO.cpp",
+              "RelativeToolTip": "CauDo1t4\\cAUdO.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T07:30:31.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1Thang4.cpp",
+              "DocumentMoniker": "D:\\UIT\\HK2\\OOP\\Bai_Tap\\Constructor\\Constructor\\1thang4\\1Thang4.cpp",
+              "RelativeDocumentMoniker": "1thang4\\1Thang4.cpp",
+              "ToolTip": "D:\\UIT\\HK2\\OOP\\Bai_Tap\\Constructor\\Constructor\\1thang4\\1Thang4.cpp",
+              "RelativeToolTip": "1thang4\\1Thang4.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T06:10:40.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai1.cpp",
+              "DocumentMoniker": "D:\\UIT\\HK2\\OOP\\Bai_Tap\\Constructor\\Constructor\\Constructor1\\Bai1.cpp",
+              "RelativeDocumentMoniker": "Constructor1\\Bai1.cpp",
+              "ToolTip": "D:\\UIT\\HK2\\OOP\\Bai_Tap\\Constructor\\Constructor\\Constructor1\\Bai1.cpp",
+              "RelativeToolTip": "Constructor1\\Bai1.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T06:35:18.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

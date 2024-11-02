@@ -1,0 +1,3 @@
+﻿  Bai1.cpp
+D:\UIT\HK2\OOP\Bai_Tap\TestLap\TestLap\Bai1.cpp(37,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TestLap.vcxproj -> D:\UIT\HK2\OOP\Bai_Tap\TestLap\x64\Debug\TestLap1.exe
